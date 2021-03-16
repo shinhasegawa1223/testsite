@@ -1,0 +1,20 @@
+body{
+  background: linear-gradient(-45deg, rgba(59, 59, 59, .8),
+              rgba(47, 80, 106, .8)) fixed,
+  url(../img/sword.jpg) fixed;
+  background-size: cover;
+}
+
+h1,h2,h3{
+  color: white;
+
+}
+
+
+/* <span class="a">必須</span> */
+.a{
+  background-color: #2f506a;
+  color: white;
+  padding: 3px 3px;
+
+}

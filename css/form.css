@@ -1,0 +1,71 @@
+h2 {
+  color: #3b3b3b;
+  text-align: center;
+  margin-bottom: 0px;  
+}
+hr{
+  outline: 0px solid #2F506A;
+  border: 1px solid #2F506A;  
+  border-radius: 10px;
+}
+label {
+  color: #3b3b3b;
+  font-weight: bold;
+}
+p{
+  color: #3b3b3b;
+  margin-top: 2px;
+  margin-left: 5px;
+  margin-bottom: 35px;
+  font-size: 12px;
+}
+
+.hissu {
+  border-radius: 3px;
+  margin-right: 10px;
+  background-color: #2F506A;
+  color: white;
+  padding: 3px 3px;
+  font-size: 14px;
+}
+
+.Form-Name {
+font-weight: bold;
+}
+
+.Form-input-Item[type=text] {
+  margin-top: 12px;
+  margin-bottom: 0px;    
+  height: 25px;
+  width: 60%;
+}
+
+.Send-Button {
+  width: 140px;
+  height: 40px;
+  background-color: #2F506A;
+  color: white;
+  border-radius: 3px;
+}
+
+.Form-Button{
+  text-align : center ;
+}
+
+.Form-Item-Textarea[type=text]{
+  margin-top: 20px;
+  margin-bottom: 20px;
+	box-sizing: border-box;
+	padding: 1em;
+	border: 1px solid #3b3b3b;
+	border-radius: 4px;
+}
+
+:focus {
+  outline: 2px solid #EEA000;
+  outline-offset: -1px;
+ }
+
+.Form-Item{
+  color: #3b3b3b;
+}
